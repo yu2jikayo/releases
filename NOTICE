@@ -1,0 +1,78 @@
+ScalarDB Explorer
+Copyright 2025 yu2jikayo
+
+This product includes software developed by third parties.
+
+================================================================================
+
+ScalarDB
+https://github.com/scalar-labs/scalardb
+Copyright Scalar, Inc.
+Licensed under Apache License 2.0
+
+--------------------------------------------------------------------------------
+
+Apache Spark
+https://spark.apache.org/
+Copyright The Apache Software Foundation
+Licensed under Apache License 2.0
+
+--------------------------------------------------------------------------------
+
+Spring Framework
+https://spring.io/
+Copyright VMware, Inc.
+Licensed under Apache License 2.0
+
+--------------------------------------------------------------------------------
+
+SQLite JDBC Driver
+https://github.com/xerial/sqlite-jdbc
+Copyright Xerial Project
+Licensed under Apache License 2.0
+
+--------------------------------------------------------------------------------
+
+ControlsFX
+https://controlsfx.github.io/
+Copyright ControlsFX Contributors
+Licensed under BSD 3-Clause License
+
+--------------------------------------------------------------------------------
+
+JavaFX
+https://openjfx.io/
+Copyright Oracle and/or its affiliates
+Licensed under GPL v2 with Classpath Exception
+
+--------------------------------------------------------------------------------
+
+SLF4J
+https://www.slf4j.org/
+Copyright QOS.ch
+Licensed under MIT License
+
+--------------------------------------------------------------------------------
+
+Logback
+https://logback.qos.ch/
+Copyright QOS.ch
+Licensed under Eclipse Public License v1.0 (EPL-1.0)
+
+--------------------------------------------------------------------------------
+
+Jakarta XML Bind API / JAXB Runtime
+https://eclipse-ee4j.github.io/jaxb-ri/
+Copyright Eclipse Foundation
+Licensed under Eclipse Distribution License v1.0
+
+--------------------------------------------------------------------------------
+
+JSON-java
+https://github.com/stleary/JSON-java
+Licensed under Public Domain
+
+================================================================================
+
+For the full license text of each dependency, please refer to their respective
+project websites listed above.
